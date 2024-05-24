@@ -1,0 +1,38 @@
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.exe
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.deps.json
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.runtimeconfig.json
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.pdb
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.AssemblyInfoInputs.cache
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.AssemblyInfo.cs
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.csproj.CoreCompileInputs.cache
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\refint\ManageStudent.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.pdb
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.genruntimeconfig.cache
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ref\ManageStudent.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.csproj.AssemblyReference.cache
+C:\Users\Cs-Store\source\repos\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageSt.371B1157.Up2Date
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.exe
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.deps.json
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.runtimeconfig.json
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\ManageStudent.pdb
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\bin\Debug\net8.0\Npgsql.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.csproj.AssemblyReference.cache
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.AssemblyInfoInputs.cache
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.AssemblyInfo.cs
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.csproj.CoreCompileInputs.cache
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageSt.371B1157.Up2Date
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\refint\ManageStudent.dll
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.pdb
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ManageStudent.genruntimeconfig.cache
+D:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\ManageStudent\ManageStudent\obj\Debug\net8.0\ref\ManageStudent.dll
